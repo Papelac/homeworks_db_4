@@ -88,7 +88,7 @@ VALUES
 INSERT INTO
     Collection(name, year_of_manufacture)
 VALUES
-    (N'На сладкое', '2023-26-03'),
+    (N'На сладкое', '2023-03-26'),
     (N'Пора взрослеть', '2023-03-26'),
     (N'intresting', '2023-03-26'),
     (N'Relax', '2018-03-26'),
